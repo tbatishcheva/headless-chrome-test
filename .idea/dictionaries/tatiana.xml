@@ -2,6 +2,7 @@
   <dictionary name="tatiana">
     <words>
       <w>chromedriver</w>
+      <w>screenshot</w>
       <w>webdriverio</w>
     </words>
   </dictionary>
