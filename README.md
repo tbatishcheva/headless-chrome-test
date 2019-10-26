@@ -21,3 +21,8 @@ node UsingChromeDriver.js http://192.168.4.66:3000/
 node UsingWebDriverIO.js http://192.168.4.66:3000/
 
 
+https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial
+
+node ycombinator-scraper.js https://github.com
+
+node OptimizingOurPuppeteerScript.js https://github.com

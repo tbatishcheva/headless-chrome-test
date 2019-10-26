@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab1c074-7f32-4afb-9eed-05dc06544189" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/tatiana.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/tatiana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptimizingOurPuppeteerScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ycombinator-scraper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ycombinator-scraper2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsingChromeDriver.js" beforeDir="false" afterPath="$PROJECT_DIR$/UsingChromeDriver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UsingWebDriverIO.js" beforeDir="false" afterPath="$PROJECT_DIR$/UsingWebDriverIO.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkIfTheSiteHasaWebAppManifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/checkIfTheSiteHasaWebAppManifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extractTheTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/extractTheTitle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printTheUserAgent.js" beforeDir="false" afterPath="$PROJECT_DIR$/printTheUserAgent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printTheUserAgent2.js" beforeDir="false" afterPath="$PROJECT_DIR$/printTheUserAgent2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.js" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshotOfThePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/screenshotOfThePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useChildProcess.js" beforeDir="false" afterPath="$PROJECT_DIR$/useChildProcess.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usingChromeLauncherToLaunchHeadless.js" beforeDir="false" afterPath="$PROJECT_DIR$/usingChromeLauncherToLaunchHeadless.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +41,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -72,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572081835736</updated>
-      <workItem from="1572081837002" duration="5330000" />
+      <workItem from="1572081837002" duration="5936000" />
     </task>
     <servers />
   </component>
